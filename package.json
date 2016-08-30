@@ -1,0 +1,22 @@
+{
+  "name": "react-boilerplate",
+  "description": "React Boilerplate",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/termosa/rb.git"
+  },
+  "keywords": [
+    "js",
+    "react",
+    "redux",
+    "webpack",
+    "babel",
+    "es2015"
+  ],
+  "author": "Stanislav Termosa <termosa.stanislav@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/termosa/rb/issues"
+  },
+  "homepage": "https://github.com/termosa/rb#readme"
+}
